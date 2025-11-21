@@ -1,0 +1,10 @@
+{
+  "name": "Asset Builders Core Brain",
+  "description": "Central intelligence coordinating all Asset Builders AI divisions and property analysis.",
+  "model": "gpt-5.1",
+  "instructions_file": "prompts/system/core_system_prompt.md",
+  "knowledge_paths": [
+    "knowledge/global"
+  ],
+  "tools": []
+}
